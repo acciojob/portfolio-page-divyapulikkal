@@ -1,2 +1,17 @@
 
-/* Your CSS Code here. */
+body{
+	background-color:#F2CDFC;
+	padding:20px;
+}
+#skills{
+	background-color:#D1B7E7;
+	padding:5px;
+	border:1px dotted #;
+	margin-top:30px;
+}
+#projects{
+	background-color:#D1B7E7;
+	padding:5px;
+	border:1px dotted #;
+	margin-top:30px;
+}
